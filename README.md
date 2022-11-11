@@ -24,8 +24,8 @@ Projects in this repository follow the <a href="https://www.youtube.com/watch?v=
 <i>This is a simple number guessing game where a player selects a possible range and is then asked to guess a randomly generated number from within that range.  The player is given clues with each guess to help them know if they need to guess higher or lower.</i>
 <br /><br />
 Project #3 - Rock, Paper, Scissors<br/>
-<br />
-<br />
+<i>This is a game of rock, paper, scissors which keeps track of how many times the computer vs the player wins.</i>
+<br /><br />
 Project #4 - Choose Your Own Adventure <br/>
 <br />
 <br />
@@ -41,10 +41,12 @@ Project #5 - Password Managers (Most Advanced) <br/>
 <h3>Project #2 - Number Guessing Game</h3>
 <li>How to import modules into Python.  It was also interesting to learn that there are built in modules that don't need installation.</li>
 <li>The syntax for a "while" loop including the use of the "continue" statement.</li>
-
 <br />
 <br />
-Project #3 - Rock, Paper, Scissors<br/>
+<h3>Project #3 - Rock, Paper, Scissors</h3>
+<li>How to add a list into an if statement.</li>
+<li>Using the "not in" identity operator.</li>
+<li>Using an index to pul la value from a pre-made list.</li>
 <br />
 <br />
 Project #4 - Choose Your Own Adventure <br/>
