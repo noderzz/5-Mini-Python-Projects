@@ -11,7 +11,6 @@ while True:
     
     if user_input not in options:
         print("That doesn't appear to be a valid option")
-        print('Type in: "Rock", "Paper", "Scissors" to play or "Q" to quit.')
         continue
 
     random_number = random.randint(0,2)
