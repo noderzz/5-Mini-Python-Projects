@@ -23,7 +23,7 @@ Projects in this repository follow the <a href="https://www.youtube.com/watch?v=
 <h4>Project #2 - Number Guessing Game</h4>
 <i>This is a simple number guessing game where a player selects a possible range and is then asked to guess a randomly generated number from within that range.  The player is given clues with each guess to help them know if they need to guess higher or lower.</i>
 <br /><br />
-Project #3 - Rock, Paper, Scissors<br/>
+<h4>Project #3 - Rock, Paper, Scissors</h4>
 <i>This is a game of rock, paper, scissors which keeps track of how many times the computer vs the player wins.</i>
 <br /><br />
 Project #4 - Choose Your Own Adventure <br/>
