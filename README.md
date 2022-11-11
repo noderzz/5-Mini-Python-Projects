@@ -42,15 +42,12 @@ Project #5 - Password Managers (Most Advanced) <br/>
 <li>How to import modules into Python.  It was also interesting to learn that there are built in modules that don't need installation.</li>
 <li>The syntax for a "while" loop including the use of the "continue" statement.</li>
 <br />
-<br />
 <h3>Project #3 - Rock, Paper, Scissors</h3>
 <li>How to add a list into an if statement.</li>
 <li>Using the "not in" identity operator.</li>
 <li>Using an index to pul la value from a pre-made list.</li>
 <br />
-<br />
 Project #4 - Choose Your Own Adventure <br/>
-<br />
 <br />
 Project #5 - Password Managers (Most Advanced) <br/>
 
