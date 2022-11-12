@@ -26,9 +26,9 @@ Projects in this repository follow the <a href="https://www.youtube.com/watch?v=
 <h4>Project #3 - Rock, Paper, Scissors</h4>
 <i>This is a game of rock, paper, scissors which keeps track of how many times the computer vs the player wins.</i>
 <br /><br />
-Project #4 - Choose Your Own Adventure <br/>
-<br />
-<br />
+<h4>Project #4 - Choose Your Own Adventure</h4>
+<i>This is a choose your own adventure game where they player is given options in a story and is asked to decide what to do in order to advance the plot.</i>
+<br /><br />
 Project #5 - Password Managers (Most Advanced) <br/>
 
 
@@ -45,9 +45,11 @@ Project #5 - Password Managers (Most Advanced) <br/>
 <h3>Project #3 - Rock, Paper, Scissors</h3>
 <li>How to add a list into an if statement.</li>
 <li>Using the "not in" identity operator.</li>
-<li>Using an index to pul la value from a pre-made list.</li>
+<li>Using an index to pull a value from a pre-made list.</li>
 <br />
-Project #4 - Choose Your Own Adventure <br/>
+<h3>Project #4 - Choose Your Own Adventure</h3>
+<li>How nesting of if statements works.</li>
+<li>Using elif statements.</li>
 <br />
 Project #5 - Password Managers (Most Advanced) <br/>
 
