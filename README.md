@@ -29,7 +29,8 @@ Projects in this repository follow the <a href="https://www.youtube.com/watch?v=
 <h4>Project #4 - Choose Your Own Adventure</h4>
 <i>This is a choose your own adventure game where they player is given options in a story and is asked to decide what to do in order to advance the plot.</i>
 <br /><br />
-Project #5 - Password Managers (Most Advanced) <br/>
+<h4>Project #5 - Password Managers (Most Advanced)</h4>
+<i>This is a password manager that gives users the option to input credentials (into a text file) or display saved credentials.  While the program will display them in plain text, the password text file they are stored is is encrypted so that if opened it doesn't display the plain text passwords.</i>
 
 
 <h2>What I learned:</h2>
@@ -51,8 +52,15 @@ Project #5 - Password Managers (Most Advanced) <br/>
 <li>How nesting of if statements works.</li>
 <li>Using elif statements.</li>
 <br />
-Project #5 - Password Managers (Most Advanced) <br/>
-
+<h3>Project #5 - Password Managers (Most Advanced) </h3>
+<li>Creation of Functions in Python</li>
+<li>With statement in place of setting the contents of a file to a variable and then closing the file later (VARIABLE.close())</li>
+<li>open function with the read(r), write[will override file](w) and append(a).</li>
+<li>The page break character "\n".</li>
+<li>readlines function</li>
+<li>rstrip()/strip() functions</li>
+<li>.split() function</li>
+<li>pip install cryptography</li>
 <!--
  ```diff
 - text in red
