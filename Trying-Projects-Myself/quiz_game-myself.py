@@ -9,6 +9,7 @@ if answer == "yes":
 else:
     os.system('cls')
     print("Understandable, have a great day!")
+    quit()
 
 #The Questions
 answer = input("What color is the sky? ").lower()
