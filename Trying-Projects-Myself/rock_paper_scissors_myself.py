@@ -39,6 +39,9 @@ while True:
         ties += 1
     elif answer == "q":
         break
+    elif answer not in choices:
+        print("Sorry, that doesn't appear to be a valid input.")
+        continue
     else:
         print(f"Computer chose {choices[random_number]}")
         print("Looks like you lose!")
