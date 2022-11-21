@@ -60,7 +60,7 @@ Projects in this repository follow the <a href="https://www.youtube.com/watch?v=
 with open("test.txt",'w',encoding = 'utf-8') as f:
    f.write("my first file\n")
 ```
-<li>Byte strings and why they're so important with Cryptography:".</li>
+<li>Byte strings and why they're so important with <a href="https://stackoverflow.com/questions/67868931/which-are-the-advantages-of-byte-objects-over-string-objects-in-python">Cryptography</a>:".</li>
 <i>"One example of when you might need to use bytes, is when working with crypto and pseudo-random sequence generation, where you will often end up with a sequence of bytes that cannot be represented 1-to-1 as a string. This is because you want to work with as large as possible an output space when generating pseudo-random numbers and sequences. See for example secrets.token_bytes from the stdlib."</i><br></br>
 <li>open function with the read(r), write[will override file](w) and append(a).</li>
 <li>The page break character "\n".</li>
