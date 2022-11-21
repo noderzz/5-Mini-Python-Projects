@@ -55,6 +55,11 @@ Projects in this repository follow the <a href="https://www.youtube.com/watch?v=
 <h3>Project #5 - Password Managers (Most Advanced) </h3>
 <li>Creation of Functions in Python</li>
 <li>With statement in place of setting the contents of a file to a variable and then closing the file later (VARIABLE.close())</li>
+
+```
+with open("test.txt",'w',encoding = 'utf-8') as f:
+   f.write("my first file\n")
+```
 <li>open function with the read(r), write[will override file](w) and append(a).</li>
 <li>The page break character "\n".</li>
 <li>readlines function</li>
